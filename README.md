@@ -24,7 +24,7 @@
         Clone / download the repository in the local file system
     </li>
     <li> 
-        Open Terminal and traverse in the directory where repository is placed using "cd " ciommand
+        Open Terminal and traverse in the directory where repository is placed using "cd " command
     </li>
     <li> 
         Place your AppId and Secreat Key in ".env.txt" file and save that file as ".env" in same directory.
